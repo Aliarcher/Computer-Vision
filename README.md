@@ -25,6 +25,7 @@ The Project divided into these topics in these aspects:
   - [ ] Body Pose Detection
   - [ ] Action Detection
   - [ ] Captioning
+  - [ ] Conditional Generation
   * .....
 * Video
   - [ ] Face Detection and Crupting
@@ -38,4 +39,5 @@ The Project divided into these topics in these aspects:
   - [ ] Body Pose Detection
   - [ ] Action Detection
   - [ ] Captioning
+  - [ ] Conditional Generation
   * .....
