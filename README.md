@@ -20,7 +20,11 @@ The Project divided into these topics in these aspects:
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
   - [ ] Classification
+  - [ ] Semantic Clustering
+  - [ ] Scene Text Detection and extraction
+  - [ ] Body Pose Detection
   - [ ] Action Detection
+  - [ ] Captioning
   * .....
 * Video
   - [ ] Face Detection and Crupting
@@ -29,5 +33,9 @@ The Project divided into these topics in these aspects:
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
   - [ ] Classification
+  - [ ] Semantic Clustering
+  - [ ] Scene Text Detection and extraction
+  - [ ] Body Pose Detection
   - [ ] Action Detection
+  - [ ] Captioning
   * .....
