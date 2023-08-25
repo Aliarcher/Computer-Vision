@@ -19,8 +19,8 @@ The Project divided into these topics in these aspects:
   - [ ] Facial Demographics estimation
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
-  - [ ] Classification
   - [ ] Semantic Clustering
+  - [ ] Classification
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
   - [ ] Action Detection
@@ -32,8 +32,8 @@ The Project divided into these topics in these aspects:
   - [ ] Facial Demographics estimation
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
-  - [ ] Classification
   - [ ] Semantic Clustering
+  - [ ] Classification
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
   - [ ] Action Detection
