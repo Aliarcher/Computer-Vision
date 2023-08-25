@@ -1,5 +1,6 @@
 # Computer-Vision
-![computer-vision](https://github.com/Aliarcher/Computer-Vision/assets/53465519/dec34541-d4cb-4836-8f84-5d3bd71fc639)
+![CV](https://github.com/Aliarcher/Computer-Vision/assets/53465519/33bb28ca-988b-4917-a05c-0d7c65630c7e)
+
 
 This repository contains simple and fundamental Projects in Computer vision (under development....)
 
