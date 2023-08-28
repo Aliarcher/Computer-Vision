@@ -14,7 +14,7 @@ Computer vision trains machines to perform these functions, but it has to do it 
 ## Key Topics
 The Project divided into these topics in these aspects:
 * Image
-  - [ ] Face Detection and Crupting
+  - [x] Face Detection and Crupting
   - [ ] Facial Emotion Detection
   - [ ] Facial Demographics estimation
   - [ ] Obeject Detection
