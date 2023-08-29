@@ -1,5 +1,5 @@
 # Computer-Vision
-<div style="width: auto">
+<divstyle="display: flex; justify-content: center;">
 Classification | Detection and Traking  | Generation
 -- | ------- | -----
 ![cv2](https://github.com/Aliarcher/Computer-Vision/assets/53465519/72f6e522-5261-4a8b-a3f4-ea7ae8f313cc)
