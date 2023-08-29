@@ -1,7 +1,8 @@
 # Computer-Vision
-Detection and Traking  | Generation
+Classification | Detection and Traking  | Generation
 --- | ---
-![CV](https://github.com/Aliarcher/Computer-Vision/assets/53465519/33bb28ca-988b-4917-a05c-0d7c65630c7e) | ![CV1](https://github.com/Aliarcher/Computer-Vision/assets/53465519/c735b7db-65b0-49a6-8598-b4bec55e9234)
+![cv2](https://github.com/Aliarcher/Computer-Vision/assets/53465519/72f6e522-5261-4a8b-a3f4-ea7ae8f313cc)
+| ![CV](https://github.com/Aliarcher/Computer-Vision/assets/53465519/33bb28ca-988b-4917-a05c-0d7c65630c7e) | ![CV1](https://github.com/Aliarcher/Computer-Vision/assets/53465519/c735b7db-65b0-49a6-8598-b4bec55e9234)
 
 
 
