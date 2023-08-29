@@ -1,9 +1,24 @@
 # Computer-Vision
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+<div class="table">
 Classification | Detection and Traking  | Generation
 -- | ------- | -----
 ![cv2](https://github.com/Aliarcher/Computer-Vision/assets/53465519/72f6e522-5261-4a8b-a3f4-ea7ae8f313cc)
 | ![CV](https://github.com/Aliarcher/Computer-Vision/assets/53465519/33bb28ca-988b-4917-a05c-0d7c65630c7e) | ![CV1](https://github.com/Aliarcher/Computer-Vision/assets/53465519/c735b7db-65b0-49a6-8598-b4bec55e9234)
-
+</div>
 
 
 This repository contains simple and fundamental Projects in Computer vision (under development....)
