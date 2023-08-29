@@ -15,7 +15,7 @@ Computer vision trains machines to perform these functions, but it has to do it 
 The Project divided into these topics in these aspects:
 * Image
   - [x] Face Detection and Crupting
-  - [ ] Facial Emotion Detection
+  - [x] Facial Emotion Detection
   - [ ] Facial Demographics estimation
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
