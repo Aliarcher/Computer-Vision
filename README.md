@@ -1,19 +1,5 @@
 # Computer-Vision
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
-<div class="table">
+<div style="width: auto">
 Classification | Detection and Traking  | Generation
 -- | ------- | -----
 ![cv2](https://github.com/Aliarcher/Computer-Vision/assets/53465519/72f6e522-5261-4a8b-a3f4-ea7ae8f313cc)
