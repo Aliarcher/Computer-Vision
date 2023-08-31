@@ -19,7 +19,7 @@ The Project divided into these topics in these aspects:
 * Image
   - [x] Face Detection and Crupting
   - [x] Facial Emotion Detection
-  - [ ] Facial Demographics estimation
+  - [x] Facial Demographics estimation
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
   - [ ] Semantic Clustering
