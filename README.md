@@ -23,7 +23,6 @@ The Project divided into these topics in these aspects:
   - [ ] Obeject Detection
   - [ ] Semantic Segmentation
   - [ ] Semantic Clustering
-  - [ ] Classification
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
   - [ ] Action Detection
@@ -31,13 +30,12 @@ The Project divided into these topics in these aspects:
   - [ ] Conditional Generation
   * .....
 * Video
-  - [ ] Face Detection and Crupting
-  - [ ] Facial Emotion Detection
+  - [ ] Face Detection and Tracking
+  - [ ] Facial Emotion Detection and Tracking
   - [ ] Facial Demographics estimation
   - [ ] Obeject Detection and Tracking
   - [ ] Semantic Segmentation
   - [ ] Semantic Clustering
-  - [ ] Classification
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
   - [ ] Action Detection
