@@ -22,7 +22,9 @@ The Project divided into these topics in these aspects:
   - [x] Facial Demographics estimation
   - [x] Classification (Usecase: Food image Classification)
   - [ ] Obeject Detection
-  - [ ] Semantic Segmentation
+  - [x] Semantic Segmentation
+  - [x] Instance Segmentation
+  - [x] Panomatic Segmentation
   - [ ] Semantic Clustering
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
