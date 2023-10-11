@@ -25,7 +25,7 @@ The Project divided into these topics in these aspects:
   - [x] Semantic Segmentation
   - [x] Instance Segmentation
   - [x] Panoptic Segmentation
-  - [ ] Semantic Clustering
+  - [x] Image Similarity
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
   - [ ] Action Detection
