@@ -28,7 +28,7 @@ The Project divided into these topics in these aspects:
   - [x] Image Similarity
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
-  - [ ] Action Detection
+  - [ ] Classification (Usecase:Action Detection)
   - [ ] Captioning
   - [ ] Conditional Generation
   * .....
@@ -41,7 +41,7 @@ The Project divided into these topics in these aspects:
   - [ ] Semantic Clustering
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
-  - [ ] Action Detection
+  - [x] Classification (Usecase:Action Detection)
   - [ ] Captioning
   - [ ] Conditional Generation
   * .....
