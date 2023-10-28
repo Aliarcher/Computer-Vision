@@ -30,6 +30,7 @@ The Project divided into these topics in these aspects:
   - [ ] Body Pose Detection
   - [ ] Classification (Usecase:Action Detection)
   - [ ] Captioning
+  - [x] Unconditional Generation (Usecase:Butterfly image Generation)
   - [ ] Conditional Generation
   * .....
 * Video
