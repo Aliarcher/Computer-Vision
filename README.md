@@ -29,7 +29,7 @@ The Project divided into these topics in these aspects:
   - [ ] Scene Text Detection and extraction
   - [ ] Body Pose Detection
   - [ ] Classification (Usecase:Action Detection)
-  - [ ] Captioning
+  - [x] Persian Captioning
   - [x] Unconditional Generation (Usecase:Butterfly image Generation)
   - [ ] Conditional Generation
   * .....
