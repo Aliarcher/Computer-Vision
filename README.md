@@ -21,6 +21,7 @@ The Project divided into these topics in these aspects:
   - [x] Facial Emotion Detection
   - [x] Facial Demographics estimation
   - [x] Classification (Usecase: Food image Classification)
+  - [x] Regression (Usecase: image Arousal and Valence prediction)
   - [x] Obeject Detection
   - [x] Semantic Segmentation
   - [x] Instance Segmentation
